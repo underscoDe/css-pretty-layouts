@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+}
+
+#logo {
+	width: 150px;
+	height: 150px;
+}
+
+ul li {
+	list-style-type: circle;
+}
+
+.premier {
+	font-size: 30px;
+}
+
+li:last-of-type {
+	color: red;
+}
